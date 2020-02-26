@@ -1,0 +1,9 @@
+{
+  "name": "js-vwaejy",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/util": "^0.2.40",
+    "firebase": "^7.8.1"
+  }
+}
